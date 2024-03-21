@@ -24,18 +24,5 @@ int main(){
     cout<<ans<<endl;
 return 0;
 }
-// RTL
-/* void  lastOccRTL(string &s, char target, int i, int &ans) {
-    // Base Case
-    if (i < 0) {
-        return;
-    }
-    // ek case solution
-    if (s[i] == target) {
-        ans=i;
-        return;
-    }
 
-    lastOccRTL(s,x,i-1,ans)
-*/
 
