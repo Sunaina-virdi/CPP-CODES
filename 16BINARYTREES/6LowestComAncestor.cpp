@@ -1,6 +1,6 @@
 // LEET CODE
 // QUES NO 236
-/*
+
 class Solution{
     public:
     TreeNode* lowestCommonAncestor(TreeNode* root,TreeNode* p,TreeNode* q){
@@ -32,4 +32,3 @@ class Solution{
     } 
 };
 
-*/
