@@ -1,6 +1,6 @@
 // LEET CODE
 // QUES NO 104
-/*
+
 class solution{
     public:
     int maxDepth(TreeNode* root){
@@ -51,4 +51,3 @@ class solution{
             return count;
 }
 }
-*/
