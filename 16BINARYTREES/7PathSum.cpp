@@ -1,7 +1,7 @@
 // LEET CODE
 // QUES NO 112
 
-/*
+
 
 class Solution{
     public:
@@ -35,4 +35,3 @@ class Solution{
 };
 
 
-*/
